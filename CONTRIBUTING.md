@@ -23,6 +23,14 @@ Thank you for considering contributing to Llama Prompts! This document outlines 
 
 7. Open a pull request on the main repository. In your pull request description, please include a brief summary of the prompts you have added and any relevant context or details.
 
+## Adding a Character Card
+
+1. Fork the repository and clone it to your local machine.
+2. Navigate to the `character-cards` directory.
+3. Upload the JSON file to the `character-cards` directory.
+4. Once you have uploaded your JSON file, commit your changes and push them to your forked repository.
+5. Submit a pull request to the main repository.
+
 ## Code of Conduct
 
 Llama Prompts has adopted a Code of Conduct that we expect all contributors to adhere to.
