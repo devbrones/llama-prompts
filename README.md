@@ -5,6 +5,6 @@
 
 Collection of prompts for the Llama LLM
 
-> **Note**
+> **Note**\
 > Some of the prompts included in this repository may produce offensive content.
 
