@@ -8,3 +8,5 @@ Before submitting a pull request, please ensure that the name of the character c
 3. Upload the JSON file to the `character-cards` directory.
 4. Once you have uploaded your JSON file, commit your changes and push them to your forked repository.
 5. Submit a pull request to the main repository.
+
+Character cards are a part of [oobabooga's text-generation-webui](https://github.com/oobabooga/text-generation-webui/)
