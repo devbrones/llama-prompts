@@ -1,9 +1,9 @@
-# Llama-prompts
+# LLaMA-prompts
 ![GitHub last commit](https://img.shields.io/github/last-commit/devbrones/llama-prompts)
 ![GitHub](https://img.shields.io/github/license/devbrones/llama-prompts)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/devbrones/llama-prompts)
 
-Collection of prompts for the Llama LLM
+Collection of prompts for the LLaMA LLM
 
 [LLaMA](https://github.com/facebookresearch/llama/blob/main/MODEL_CARD.md) is an auto-regressive language model, based on the transformer architecture.
 
